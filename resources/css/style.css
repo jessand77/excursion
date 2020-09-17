@@ -1,0 +1,46 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;;
+}
+
+a {
+    color: aquamarine;
+}
+
+video {
+    margin: 50px;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+.container {
+    width: 65%;
+    margin: 0 auto;
+}
+
+#phone {
+    margin: 25px;
+}
+
+#copyright {
+    text-align: right;
+}
